@@ -1,0 +1,51 @@
+body{
+
+}
+
+header{
+float: right;
+margin-bottom: 35px;
+}
+
+
+article{
+    margin: auto;
+    width: 640px;
+    clear: both;
+}
+
+input{
+width: 582px;
+height: 40px;
+border-radius: 24px;
+display: block;
+margin: auto;
+margin-bottom: 24px;
+}
+
+ul{
+
+list-style: none;
+
+display: flex;
+}
+
+li{
+
+margin-right: 15px;
+}
+
+ul li img{
+    
+}
+
+#logo{
+    width: 300px;
+    margin: auto;
+}
+
+#icones{width: 431px;margin: auto;}
+
+img{
+    width: inherit;
+}
