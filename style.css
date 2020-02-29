@@ -5,7 +5,6 @@ font-family: Arial, Helvetica, sans-serif;
 header{
 
 float: right;
-
 margin-bottom: 35px;
 }
 
@@ -13,56 +12,50 @@ margin-bottom: 35px;
 article{
     
 margin: auto;
-    
 width: 640px;
-    
 clear: both;
 }
 
 input[name="text"]{
 
 width: 582px;
-
 height: 40px;
-
 border-radius: 24px;
-
 display: block;
-
 margin: auto;
-
 margin-bottom: 24px;
 }
 
 input[type="button"]{
-width: 140px;
-height: 38px;
-border: none;
-background-color: #ececec;
-border-radius: 3px;
-position: relative;
-top: 6px;
-left: 158px;
-margin-right: 8px;
-color: #6f6b6b;
-font-size: 14px;
+
+width: 140px;
+height: 38px;
+border: none;
+background-color: #ececec;
+border-radius: 3px;
+position: relative;
+top: 6px;
+left: 158px;
+margin-right: 8px;
+color: #6f6b6b;
+font-size: 14px;
 }
 
 
 
 ul{
-list-style: none;
-display: flex;
-font-size: 13px;
+
+list-style: none;
+display: flex;
+font-size: 13px;
 }
 
 li{
-margin-right: 17px;
+
+margin-right: 17px;
 }
 
-ul li img{
-    
-}
+
 
 #logo{
     width: 300px;
